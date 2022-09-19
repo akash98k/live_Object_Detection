@@ -2,5 +2,7 @@
 Detect objects from photo or video
 
 
-Downlode weight file from the link file is too big 
+change yolov3.cfg.txt to yolov3.cfg
+
+Downlode weight file from the link, file is too big 
 https://pjreddie.com/darknet/yolo/
